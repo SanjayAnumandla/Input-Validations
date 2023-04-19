@@ -1,0 +1,6 @@
+Flask>=2.2.2
+Flask-RESTful>0.3.8
+Flask-SQLAlchemy
+psycopg2
+docker-compose.yml
+Dockerfile
